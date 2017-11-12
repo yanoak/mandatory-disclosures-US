@@ -1,0 +1,238 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>d3.chart.sankey (product demo)</title>
+    <script src="/js/d3.v3.js"></script>
+    <script src="/js/sankey.js"></script>
+    <script src="//cdn.rawgit.com/misoproject/d3.chart/master/d3.chart.min.js"></script>
+    <script src="/js/d3.chart.sankey.js"></script>
+    <style>
+      body {
+        padding: 10px;
+        min-width: 600px;
+        max-width: 650px;
+        margin: auto;
+      }
+      #chart {
+        height: 650px;
+        font: 9px sans-serif;
+      }
+      .node rect {
+        fill-opacity: .9;
+        shape-rendering: crispEdges;
+        stroke-width: 0;
+      }
+      .node text {
+        text-shadow: 0 1px 0 #fff;
+      }
+      .link {
+        fill: none;
+        stroke: #000;
+        stroke-opacity: .2;
+      }
+      
+      .tooltip  {
+        position: absolute;
+        stroke: #444;
+        top: 3000px;
+        left: 100px;
+        -moz-border-radius:3px;
+        border-radius: 3px;
+        border: 2px solid #000;
+        /* background: #222222; */
+        background: #fff;
+        opacity: .9;
+        /* color: #eeeeee; */
+        color: black;
+        padding: 0px 10px;
+        width: 150px;
+        font-size: 10px;
+        z-index: 10;
+        -webkit-touch-callout: none; /* iOS Safari */
+        -webkit-user-select: none;   /* Chrome/Safari/Opera */
+        -khtml-user-select: none;    /* Konqueror */
+        -moz-user-select: none;      /* Firefox */
+        -ms-user-select: none;       /* Internet Explorer/Edge */
+        user-select: none;     
+      }
+    </style>
+  </head>
+  <body>
+    <div id="chart"></div>
+
+    
+    
+    <script>
+    
+      var div = d3.select("body").append("div")	
+        .attr("class", "tooltip")
+        .style("opacity", 0);
+      
+      var width = 650;
+      var height = 650;
+
+      
+      var colors = {
+            'Royalties':         '#edbd00',
+            'Taxes':              '#367d85',
+            'Fees':             '#97ba4c',
+            'Production entitlements':'#f5662b',
+            'Bonuses': '#3f3e47',
+            'fallback':            '#9f9fa3'
+          };
+      d3.json("sankey_data.json", function(error, json) {
+        var chart = d3.select("#chart").append("svg").chart("Sankey.Path");
+        chart
+          .name(label)
+          .colorNodes(function(name, node) {
+            return color(node, 1) || colors.fallback;
+          })
+          .colorLinks(function(link) {
+            return color(link.source, 4) || color(link.target, 1) || colors.fallback;
+          })
+          .nodeWidth(10)
+          .nodePadding(8)
+          .spread(true)
+          .iterations(0)
+          .draw(json);
+        
+        
+        function label(node) {
+          return node.name; //.replace(/\s*\(.*?\)$/, '');
+        }
+        
+        function color(node, depth) {
+          var name = node.name; //.replace(/(_score)?(_\d+)?$/, '');
+          if (colors[name]) {
+            return colors[name];
+          } else if (depth > 0 && node.targetLinks && node.targetLinks.length == 1) {
+            return color(node.targetLinks[0].source, depth-1);
+          } else {
+            return null;
+          }
+        }
+        
+        
+        //////// TOOLTIP //////////
+        
+         chart.on('node:mouseover', function(node) {
+//          console.log(node);
+//          alert('Clicked on ' + node.name);
+          
+          var content;
+      
+
+          content = "<p> " + node.name + " </br>";
+          content += "US$ " + d3.format(",")(node.value) + " </p>";
+//          content += "<h3>" + d.data.Cause_en + " </br>";
+//          content += d.data.Cause_mm_uni_rev_orig + "</h3>";
+//
+//          if (d.data.value > 0.001)
+//            content += "<b><big>" + d3.format(".2%")(d.data.value) + "</big> </b>";
+//          else
+//            content += "<b><big>" + d3.format(".4%")(d.data.value) + "</big> </b>";
+//
+//
+//          content += "of total DALYs</br>(" + d3.format(".4%")(d.data.Lower_bound) + " - " + d3.format(".4%")(d.data.Upper_bound) + ") </br></br>";
+
+
+          div.transition()		
+            .duration(100)
+            .style("display", "inline")
+            .style("opacity", .9);
+
+          if (d3.event.pageX + 300 < width && d3.event.pageY + 100 < height) {
+            div.html(content)	
+            .style("left", (d3.event.pageX + 30) + "px")		
+            .style("top", (d3.event.pageY - 28) + "px");	  
+          } else if (d3.event.pageX + 150 >= width && d3.event.pageY + 100 < height){
+            div.html(content)	
+            .style("left", (d3.event.pageX - 270) + "px")		
+            .style("top", (d3.event.pageY - 28) + "px");	  
+          } else if (d3.event.pageX + 150 < width && d3.event.pageY + 100 >= height) {
+            div.html(content)	
+            .style("left", (d3.event.pageX - 30) + "px")		
+            .style("top", (d3.event.pageY - 228) + "px");	  
+          } else {
+            div.html(content)	
+            .style("left", (d3.event.pageX - 270) + "px")		
+            .style("top", (d3.event.pageY - 228) + "px");	  
+          }
+    
+          
+          
+        });
+        
+        chart.on('node:mouseout', function(node) {
+          div.transition()		
+            .duration(100)	
+            .style("display", "none")
+            .style("opacity", 0);	 
+        });
+        
+        
+        chart.on('link:mouseover', function(link) {
+//          console.log(node);
+//          alert('Clicked on ' + node.name);
+          
+          var content;
+      
+
+          content = "<p> " + link.target.name + " payments to " + link.source.name + " </br>";
+          content += "US$ " + d3.format(",")(link.value) + " </p>";
+          content += d3.format(".2%")(link.value/link.target.value) 
+            + " of " +link.target.name+ " </p>";
+          content += d3.format(".2%")(link.value/link.source.value) 
+            + " of " +link.source.name+ " </p>";
+//          content += "<h3>" + d.data.Cause_en + " </br>";
+//          content += d.data.Cause_mm_uni_rev_orig + "</h3>";
+//
+//          if (d.data.value > 0.001)
+//            content += "<b><big>" + d3.format(".2%")(d.data.value) + "</big> </b>";
+//          else
+//            content += "<b><big>" + d3.format(".4%")(d.data.value) + "</big> </b>";
+//
+//
+//          content += "of total DALYs</br>(" + d3.format(".4%")(d.data.Lower_bound) + " - " + d3.format(".4%")(d.data.Upper_bound) + ") </br></br>";
+
+
+          div.transition()		
+            .duration(100)
+            .style("display", "inline")
+            .style("opacity", .9);
+
+          if (d3.event.pageX + 300 < width && d3.event.pageY + 100 < height) {
+            div.html(content)	
+            .style("left", (d3.event.pageX + 30) + "px")		
+            .style("top", (d3.event.pageY - 28) + "px");	  
+          } else if (d3.event.pageX + 150 >= width && d3.event.pageY + 100 < height){
+            div.html(content)	
+            .style("left", (d3.event.pageX - 270) + "px")		
+            .style("top", (d3.event.pageY - 28) + "px");	  
+          } else if (d3.event.pageX + 150 < width && d3.event.pageY + 100 >= height) {
+            div.html(content)	
+            .style("left", (d3.event.pageX - 30) + "px")		
+            .style("top", (d3.event.pageY - 228) + "px");	  
+          } else {
+            div.html(content)	
+            .style("left", (d3.event.pageX - 270) + "px")		
+            .style("top", (d3.event.pageY - 228) + "px");	  
+          }
+    
+          
+          
+        });
+        
+        chart.on('link:mouseout', function(link) {
+          div.transition()		
+            .duration(100)	
+            .style("display", "none")
+            .style("opacity", 0);	 
+        });
+        
+        
+      });
+    </script>
+  </body>
+</html>
