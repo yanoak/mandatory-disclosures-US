@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Myanmar Union Level Budget</title>
+    <script src="js/d3.v3.min.js"></script>
+<!--
+    <link rel="stylesheet" type="text/css"
+      href="https://fonts.googleapis.com/css?family=Open+Sans:400,600">
+-->
+    <link rel="stylesheet" type="text/css" href="style.css"/>
+  </head>
+  <body>
+    <div id="main">
+<!--      <h1 style="text-align: left; width: 400px;">Myanmar Union Level Budget</h1>-->
+      <div id="selector" style="text-align: center;  width: 400px;">
+        <big> Select state:</big> <select id="stateSelector"></select>
+      </div> 
+      </br>
+<!--
+      <div id="titles">
+        <h1 style="float: left; text-align: center;"> Incomes</h1>
+      </div>
+-->
+      <div id="sequence"></div>
+      <div id="chart">
+        <div id="explanation1" style="visibility: hidden;">
+          <span id="percentage1"></span><br/>
+          of payments to this State are in this subcategory
+        </div>
+<!--
+        <div id="explanation2" style="visibility: hidden;">
+          <span id="percentage2"></span><br/>
+          of union budget is spent on this subcategory
+        </div>
+-->
+      </div>
+<!--
+      <p> Data obtained from <a href="http://budget.omimyanmar.org/">Open Myanmar Initiative's Budget Explorer</a>.</p>
+      <p> Acronyms used:</p>
+      <ul>
+        <li> CDC - Cantonment and Other Development Committees</li>
+        <li> NPT - Naypyitaw (Myanmar's capital city)</li>
+        <li> SEE - State Economic Enterprise</li>
+        <li> SOE - State Owned Enterprise</li>
+      </ul>
+-->
+    
+    </div>
+    <script type="text/javascript" src="sequences.js"></script>
+    <script type="text/javascript">
+      // Hack to make this example display correctly in an iframe on bl.ocks.org
+      d3.select(self.frameElement).style("height", "700px");
+  </script> 
+  </body>
+</html>
