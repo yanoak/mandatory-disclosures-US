@@ -1,445 +1,469 @@
 State,Reporting Company,Payment Type,Entity Name,Value (USD)
-Alaska,Agnico Eagle Mines Limited,Fees,State of Alaska,75448.0
-Alaska,BP P.L.C.,Fees,State of Alaska,300282.0
-Alaska,BP P.L.C.,Royalties,State of Alaska,37261461.0
-Alaska,BP P.L.C.,Royalties,State of Alaska,174089734.0
-Alaska,BP P.L.C.,Taxes,State of Alaska,69428844.0
-Alaska,"Coeur Mining, Inc.",Fees,"City of Juneau, Alaska",20000.0
-Alaska,"Coeur Mining, Inc.",Fees,State of Alaska,210000.0
-Alaska,"Coeur Mining, Inc.",Taxes,"City of Juneau, Alaska",1410000.0
-Alaska,Freegold Ventures Limited,Fees,State of Alaska,55908.0
-Alaska,Freegold Ventures Limited,Fees,State of Alaska- Mental Health,18006.0
-Alaska,Freegold Ventures Limited,Taxes,Fairbanks North Star Borough,7737.0
+Alaska,Agnico Eagle Mines Limited,Fees,State of Alaska,75448
+Alaska,BP P.L.C.,Fees,State of Alaska,300282
+Alaska,BP P.L.C.,Royalties,State of Alaska,37261461
+Alaska,BP P.L.C.,Royalties,State of Alaska,174089734
+Alaska,BP P.L.C.,Taxes,State of Alaska,69428844
+Alaska,"Coeur Mining, Inc.",Fees,"City of Juneau, Alaska",20000
+Alaska,"Coeur Mining, Inc.",Fees,State of Alaska,210000
+Alaska,"Coeur Mining, Inc.",Taxes,"City of Juneau, Alaska",1410000
+Alaska,Freegold Ventures Limited,Fees,State of Alaska,55908
+Alaska,Freegold Ventures Limited,Fees,State of Alaska- Mental Health,18006
+Alaska,Freegold Ventures Limited,Taxes,Fairbanks North Star Borough,7737
 Alaska,GoldMining Inc.,Fees,"Alaska Department of Natural
- Resources",181077.0
-Alaska,Kinross Gold Corporation,Fees,State of Alaska,490000.0
-Alaska,Kinross Gold Corporation,Taxes,Fairbanks North Star Borough,8300000.0
-Alaska,Kinross Gold Corporation,Taxes,State of Alaska,3610000.0
-Alaska,LeadFX Inc.,Fees,Alaska Department of Natural Resources,128263.0
-Alaska,Northern Dynasty Minerals Ltd.,Fees,State of Alaska,1056583.0
-Alaska,Teck Resources Limited,Fees,State of Alaksa,965746.0
-Alaska,Teck Resources Limited,Taxes,District of Northwest Artic Borough,11392790.0
-Alaska,Teck Resources Limited,Taxes,State of Alaksa,19390378.0
-Arizona,Agrium Inc.,Taxes,Arizona Department of Revenue,347065.0
-Arizona,Capstone Mining Corp.,Fees,GOVERNMENT OF ARIZONA,251244.0
-Arizona,Capstone Mining Corp.,Taxes,GOVERNMENT OF ARIZONA,6176250.0
-Arizona,Energy Fuels Inc,Fees,Arizona Department of Environmental Quality,98083.0
-Arizona,Energy Fuels Inc,Fees,Arizona Department of Environmental Quality,98083.0
-Arizona,Energy Fuels Inc,Fees,Arizona Department of Transportation,7544.0
-Arizona,Energy Fuels Inc,Fees,Arizona Department of Transportation,7544.0
-Arizona,EntrA©e Gold Inc.,Fees,Arizona Corporation Commission,44.0
-Arizona,Eurasian Minerals Inc.,Fees,Arizona Department of Revenue,49.0
-Arizona,Eurasian Minerals Inc.,Fees,Arizona State Land Dept,22172.0
-Arizona,Excelsior Mining Corp,Fees,Arizona Department of Environmental Quality,98083.0
-Arizona,Excelsior Mining Corp,Taxes,Cochise County,399879.0
-Arizona,KGHM International,Fees,State of Arizona- Bureau of Land Management,80000.0
-Arizona,KGHM International,Taxes,Gila County Treasurer,190000.0
-Arizona,KGHM International,Taxes,State of Arizona-Department of Revenue,100000.0
-Arizona,Rio Tinto PLC,Fees,ARIZONA STATE,117911.0
-Arizona,Taseko Mines Limited,Fees,Government of Arizona,98083.0
-Arizona,Taseko Mines Limited,Taxes,"Pinal County, Arizona",98083.0
-Arkansas,BP P.L.C.,Royalties,State of Arkansas,376550.0
-Arkansas,BP P.L.C.,Taxes,State of Arkansas,514568.0
-California,Agrium Inc.,Taxes,State of California,6224537.0
-California,BP P.L.C.,Royalties,California State Controller'S Office,167016.0
-California,Barrick Gold Corporation,Fees,State of California,105628.0
-California,Golden Queen Mining Co. Ltd.,Fees,Kern County Treasurer and Tax Collector,672170.0
-California,New Gold Inc.,Fees,Imperial County - Cal,356000.0
-California,New Gold Inc.,Fees,State of California,172000.0
-California,New Gold Inc.,Taxes,Imperial County - Cal,1266000.0
-California,New Gold Inc.,Taxes,State of California,743000.0
-California,Rio Tinto PLC,Fees,CALIFORNIA GOVERNMENT,31995.0
-California,Rio Tinto PLC,Fees,KERN COUNTY (CALIFORNIA),8596268.0
-California,Rio Tinto PLC,Royalties,CALIFORNIA GOVERNMENT,340038.0
-California,Rio Tinto PLC,Taxes,CALIFORNIA GOVERNMENT,4500000.0
-California,Teck Resources Limited,Taxes,State of California,467783.0
-Colorado,Agrium Inc.,Taxes,Colorado Department of Revenue,347065.0
-Colorado,BP P.L.C.,Fees,Southern Ute Indian Tribe,212029.0
-Colorado,BP P.L.C.,Production entitlements,Southern Ute Indian Tribe,31955077.0
-Colorado,BP P.L.C.,Royalties,Southern Ute Indian Tribe,16045226.0
-Colorado,BP P.L.C.,Royalties,State of Colorado,906878.0
-Colorado,BP P.L.C.,Taxes,Southern Ute Indian Tribe,5204313.0
-Colorado,BP P.L.C.,Taxes,State of Colorado,1355126.0
-Colorado,Encana Corporation,Fees,State of Colorado,770000.0
-Colorado,Encana Corporation,Royalties,Boulder County,90000.0
-Colorado,Encana Corporation,Royalties,City of Broomfield,100000.0
-Colorado,Encana Corporation,Royalties,State of Colorado,3590000.0
-Colorado,Encana Corporation,Royalties,Town of Firestone,190000.0
-Colorado,Encana Corporation,Taxes,Boulder County,1060000.0
-Colorado,Encana Corporation,Taxes,City of Broomfield,740000.0
-Colorado,Encana Corporation,Taxes,Garfield County,28100000.0
-Colorado,Encana Corporation,Taxes,Mesa County,790000.0
-Colorado,Encana Corporation,Taxes,Rio Blanco County,2000000.0
-Colorado,Encana Corporation,Taxes,State of Colorado,5710000.0
-Colorado,Encana Corporation,Taxes,Weld County,45000000.0
-Colorado,Enirgi Group Corporation,Taxes,Rio Blanco County,286705.0
-Colorado,Eurasian Minerals Inc.,Taxes,Douglas County Treasurer,4209.0
-Delaware,BP P.L.C.,Royalties,Delaware Division Of Revenue,4874981.0
-Delaware,"Coeur Mining, Inc.",Taxes,State of Delaware,210000.0
-Delaware,Rye Patch Gold Corp.,Fees,State of Delaware,754.0
-District of Columbia,Agnico Eagle Mines Limited,Fees,United States Government,377244.0
-District of Columbia,Agrium Inc.,Fees,US Forest Service (in trust),9808362.0
-District of Columbia,Agrium Inc.,Royalties,Office of Natural Resource Revenue,2550174.0
-District of Columbia,Agrium Inc.,Taxes,Internal Revenue Service,149388904.0
-District of Columbia,Americas Silver Corporation,Fees,Mine Safety & Health,91862.0
-District of Columbia,Americas Silver Corporation,Fees,Pension Benefit Guaranty Corporation,185519.0
-District of Columbia,Americas Silver Corporation,Fees,U.S. Department of Interior,124878.0
-District of Columbia,Anglo American plc,Fees,Bureau of Land Management,181157.0
-District of Columbia,Arizona Mining Inc.,Fees,US Department of the Interior Bureau of Land Management,250000.0
-District of Columbia,Azarga Uranium Corp.,Fees,U.S. Governement - Bureau of Land Management,130355.0
-District of Columbia,Azarga Uranium Corp.,Fees,U.S. Governement - Nuclear Regulatory Commission,160238.0
-District of Columbia,BP P.L.C.,Bonuses,Office of Natural Resources Revenue,28025616.0
-District of Columbia,BP P.L.C.,Fees,Bureau of Land Management,127343.0
-District of Columbia,BP P.L.C.,Fees,Office of Natural Resources Revenue,10274278.0
-District of Columbia,BP P.L.C.,Fees,Office of Natural Resources Revenue - BIA,781205.0
-District of Columbia,BP P.L.C.,Royalties,Office of Natural Resources Revenue,358963240.0
-District of Columbia,BP P.L.C.,Royalties,Office of Natural Resources Revenue - BIA,1106855.0
-District of Columbia,Barrick Gold Corporation,Fees,Government of the United States of America,2482270.0
-District of Columbia,Barrick Gold Corporation,Taxes,Government of the United States of America,136562584.0
-District of Columbia,Baytex Energy Corp.,Fees,US Environmental Protection Agency,75448.0
-District of Columbia,CNOOC Limited,Fees,Bureau of Ocean Energy Management (BOEM),25177.0
-District of Columbia,CNOOC Limited,Fees,Bureau of Safety and Environmental Enforcement,86789.0
-District of Columbia,CNOOC Limited,Fees,Minerals Management Service,4162.0
-District of Columbia,CNOOC Limited,Fees,Office of Natural Resources Revenue,1595309.0
-District of Columbia,CNOOC Limited,Fees,US Coast Guard,1354.0
-District of Columbia,CNOOC Limited,Fees,US Department of Commerce-NOAA,12608.0
-District of Columbia,CNOOC Limited,Royalties,Minerals Management Service,4424726.0
-District of Columbia,CNOOC Limited,Royalties,Office of Natural Resources Revenue,8799.0
-District of Columbia,CNOOC Limited,Royalties,US Department of the Interior,43134.0
-District of Columbia,Cameco Corporation,Fees,Government of the United States,2422665.0
-District of Columbia,Cameco Corporation,Royalties,Government of the United States,75448.0
-District of Columbia,Capstone Mining Corp.,Fees,FEDERAL GOVERNMENT OF USA,69413.0
-District of Columbia,Capstone Mining Corp.,Taxes,FEDERAL GOVERNMENT OF USA,189376.0
-District of Columbia,"Coeur Mining, Inc.",Fees,Bureau of Land Management,150000.0
-District of Columbia,"Coeur Mining, Inc.",Fees,U.S. Government,210000.0
-District of Columbia,Coral Gold Resources Ltd.,Fees,Bureau of Land Management,105628.0
-District of Columbia,Crescent Point Energy Corp.,Fees,FEDERAL GOVERNMENT OF THE USA,347065.0
-District of Columbia,Crescent Point Energy Corp.,Royalties,FEDERAL GOVERNMENT OF THE USA,686585.0
-District of Columbia,Encana Corporation,Fees,U.S. Federal Government,1840000.0
-District of Columbia,Encana Corporation,Royalties,U.S. Federal Government,20800000.0
-District of Columbia,Encana Corporation,Taxes,U.S. Federal Government,1560000.0
-District of Columbia,Energy Fuels Inc,Fees,United States Bureau of Land Management,762034.0
-District of Columbia,Energy Fuels Inc,Fees,United States Bureau of Land Management,762034.0
-District of Columbia,Energy Fuels Inc,Fees,United States Department of Labor,7544.0
-District of Columbia,Energy Fuels Inc,Fees,United States Department of Labor,7544.0
-District of Columbia,Energy Fuels Inc,Fees,United States Nuclear Regulatory Commission,1071374.0
-District of Columbia,Energy Fuels Inc,Fees,United States Nuclear Regulatory Commission,1071374.0
-District of Columbia,Enerplus Corporation,Fees,Office of Natural Resources Revenue,377244.0
-District of Columbia,Enerplus Corporation,Royalties,Office of Natural Resources Revenue,44137630.0
+ Resources",181077
+Alaska,Kinross Gold Corporation,Fees,State of Alaska,490000
+Alaska,Kinross Gold Corporation,Taxes,Fairbanks North Star Borough,8300000
+Alaska,Kinross Gold Corporation,Taxes,State of Alaska,3610000
+Alaska,LeadFX Inc.,Fees,Alaska Department of Natural Resources,128263
+Alaska,Northern Dynasty Minerals Ltd.,Fees,State of Alaska,1056583
+Alaska,Teck Resources Limited,Fees,State of Alaksa,965746
+Alaska,Teck Resources Limited,Taxes,District of Northwest Artic Borough,11392790
+Alaska,Teck Resources Limited,Taxes,State of Alaksa,19390378
+Arizona,Agrium Inc.,Taxes,Arizona Department of Revenue,347065
+Arizona,Capstone Mining Corp.,Fees,GOVERNMENT OF ARIZONA,251244
+Arizona,Capstone Mining Corp.,Taxes,GOVERNMENT OF ARIZONA,6176250
+Arizona,Energy Fuels Inc,Fees,Arizona Department of Environmental Quality,98083
+Arizona,Energy Fuels Inc,Fees,Arizona Department of Environmental Quality,98083
+Arizona,Energy Fuels Inc,Fees,Arizona Department of Transportation,7544
+Arizona,Energy Fuels Inc,Fees,Arizona Department of Transportation,7544
+Arizona,EntrA©e Gold Inc.,Fees,Arizona Corporation Commission,44
+Arizona,Eurasian Minerals Inc.,Fees,Arizona Department of Revenue,49
+Arizona,Eurasian Minerals Inc.,Fees,Arizona State Land Dept,22172
+Arizona,Excelsior Mining Corp,Fees,Arizona Department of Environmental Quality,98083
+Arizona,Excelsior Mining Corp,Taxes,Cochise County,399879
+Arizona,KGHM International,Fees,State of Arizona- Bureau of Land Management,80000
+Arizona,KGHM International,Taxes,Gila County Treasurer,190000
+Arizona,KGHM International,Taxes,State of Arizona-Department of Revenue,100000
+Arizona,Rio Tinto PLC,Fees,ARIZONA STATE,117911
+Arizona,Taseko Mines Limited,Fees,Government of Arizona,98083
+Arizona,Taseko Mines Limited,Taxes,"Pinal County, Arizona",98083
+Arkansas,BP P.L.C.,Royalties,State of Arkansas,376550
+Arkansas,BP P.L.C.,Taxes,State of Arkansas,514568
+California,Agrium Inc.,Taxes,State of California,6224537
+California,BP P.L.C.,Royalties,California State Controller'S Office,167016
+California,Barrick Gold Corporation,Fees,State of California,105628
+California,Golden Queen Mining Co. Ltd.,Fees,Kern County Treasurer and Tax Collector,672170
+California,New Gold Inc.,Fees,Imperial County - Cal,356000
+California,New Gold Inc.,Fees,State of California,172000
+California,New Gold Inc.,Taxes,Imperial County - Cal,1266000
+California,New Gold Inc.,Taxes,State of California,743000
+California,Rio Tinto PLC,Fees,CALIFORNIA GOVERNMENT,31995
+California,Rio Tinto PLC,Fees,KERN COUNTY (CALIFORNIA),8596268
+California,Rio Tinto PLC,Royalties,CALIFORNIA GOVERNMENT,340038
+California,Rio Tinto PLC,Taxes,CALIFORNIA GOVERNMENT,4500000
+California,Teck Resources Limited,Taxes,State of California,467783
+Colorado,Agrium Inc.,Taxes,Colorado Department of Revenue,347065
+Colorado,BP P.L.C.,Fees,Southern Ute Indian Tribe,212029
+Colorado,BP P.L.C.,Production entitlements,Southern Ute Indian Tribe,31955077
+Colorado,BP P.L.C.,Royalties,Southern Ute Indian Tribe,16045226
+Colorado,BP P.L.C.,Royalties,State of Colorado,906878
+Colorado,BP P.L.C.,Taxes,Southern Ute Indian Tribe,5204313
+Colorado,BP P.L.C.,Taxes,State of Colorado,1355126
+Colorado,Encana Corporation,Fees,State of Colorado,770000
+Colorado,Encana Corporation,Royalties,Boulder County,90000
+Colorado,Encana Corporation,Royalties,City of Broomfield,100000
+Colorado,Encana Corporation,Royalties,State of Colorado,3590000
+Colorado,Encana Corporation,Royalties,Town of Firestone,190000
+Colorado,Encana Corporation,Taxes,Boulder County,1060000
+Colorado,Encana Corporation,Taxes,City of Broomfield,740000
+Colorado,Encana Corporation,Taxes,Garfield County,28100000
+Colorado,Encana Corporation,Taxes,Mesa County,790000
+Colorado,Encana Corporation,Taxes,Rio Blanco County,2000000
+Colorado,Encana Corporation,Taxes,State of Colorado,5710000
+Colorado,Encana Corporation,Taxes,Weld County,45000000
+Colorado,Enirgi Group Corporation,Taxes,Rio Blanco County,286705
+Colorado,Eurasian Minerals Inc.,Taxes,Douglas County Treasurer,4209
+Delaware,BP P.L.C.,Royalties,Delaware Division Of Revenue,4874981
+Delaware,"Coeur Mining, Inc.",Taxes,State of Delaware,210000
+Delaware,Rye Patch Gold Corp.,Fees,State of Delaware,754
+District of Columbia,Agnico Eagle Mines Limited,Fees,United States Government,377244
+District of Columbia,Agrium Inc.,Fees,US Forest Service (in trust),9808362
+District of Columbia,Agrium Inc.,Royalties,Office of Natural Resource Revenue,2550174
+District of Columbia,Agrium Inc.,Taxes,Internal Revenue Service,149388904
+District of Columbia,Americas Silver Corporation,Fees,Mine Safety & Health,91862
+District of Columbia,Americas Silver Corporation,Fees,Pension Benefit Guaranty Corporation,185519
+District of Columbia,Americas Silver Corporation,Fees,U.S. Department of Interior,124878
+District of Columbia,Anglo American plc,Fees,Bureau of Land Management,181157
+District of Columbia,Arizona Mining Inc.,Fees,US Department of the Interior Bureau of Land Management,250000
+District of Columbia,Azarga Uranium Corp.,Fees,U.S. Governement - Bureau of Land Management,130355
+District of Columbia,Azarga Uranium Corp.,Fees,U.S. Governement - Nuclear Regulatory Commission,160238
+District of Columbia,BP P.L.C.,Bonuses,Office of Natural Resources Revenue,28025616
+District of Columbia,BP P.L.C.,Fees,Bureau of Land Management,127343
+District of Columbia,BP P.L.C.,Fees,Office of Natural Resources Revenue,10274278
+District of Columbia,BP P.L.C.,Fees,Office of Natural Resources Revenue - BIA,781205
+District of Columbia,BP P.L.C.,Royalties,Office of Natural Resources Revenue,358963240
+District of Columbia,BP P.L.C.,Royalties,Office of Natural Resources Revenue - BIA,1106855
+District of Columbia,BP P.L.C.,Taxes,Federal Government,-285385056
+District of Columbia,Barrick Gold Corporation,Fees,Government of the United States of America,2482270
+District of Columbia,Barrick Gold Corporation,Taxes,Government of the United States of America,136562584
+District of Columbia,Baytex Energy Corp.,Fees,US Environmental Protection Agency,75448
+District of Columbia,CNOOC Limited,Fees,Bureau of Ocean Energy Management (BOEM),25177
+District of Columbia,CNOOC Limited,Fees,Bureau of Safety and Environmental Enforcement,86789
+District of Columbia,CNOOC Limited,Fees,Minerals Management Service,4162
+District of Columbia,CNOOC Limited,Fees,Office of Natural Resources Revenue,1595309
+District of Columbia,CNOOC Limited,Fees,US Coast Guard,1354
+District of Columbia,CNOOC Limited,Fees,US Department of Commerce-NOAA,12608
+District of Columbia,CNOOC Limited,Royalties,Minerals Management Service,4424726
+District of Columbia,CNOOC Limited,Royalties,Office of Natural Resources Revenue,8799
+District of Columbia,CNOOC Limited,Royalties,US Department of the Interior,43134
+District of Columbia,Cameco Corporation,Fees,Government of the United States,2422665
+District of Columbia,Cameco Corporation,Royalties,Government of the United States,75448
+District of Columbia,Capstone Mining Corp.,Fees,FEDERAL GOVERNMENT OF USA,69413
+District of Columbia,Capstone Mining Corp.,Taxes,FEDERAL GOVERNMENT OF USA,189376
+District of Columbia,"Coeur Mining, Inc.",Fees,Bureau of Land Management,150000
+District of Columbia,"Coeur Mining, Inc.",Fees,U.S. Government,210000
+District of Columbia,Coral Gold Resources Ltd.,Fees,Bureau of Land Management,105628
+District of Columbia,Crescent Point Energy Corp.,Fees,FEDERAL GOVERNMENT OF THE USA,347065
+District of Columbia,Crescent Point Energy Corp.,Royalties,FEDERAL GOVERNMENT OF THE USA,686585
+District of Columbia,Encana Corporation,Fees,U.S. Federal Government,1840000
+District of Columbia,Encana Corporation,Royalties,U.S. Federal Government,20800000
+District of Columbia,Encana Corporation,Taxes,U.S. Federal Government,1560000
+District of Columbia,Energy Fuels Inc,Fees,United States Bureau of Land Management,762034
+District of Columbia,Energy Fuels Inc,Fees,United States Bureau of Land Management,762034
+District of Columbia,Energy Fuels Inc,Fees,United States Department of Labor,7544
+District of Columbia,Energy Fuels Inc,Fees,United States Department of Labor,7544
+District of Columbia,Energy Fuels Inc,Fees,United States Nuclear Regulatory Commission,1071374
+District of Columbia,Energy Fuels Inc,Fees,United States Nuclear Regulatory Commission,1071374
+District of Columbia,Enerplus Corporation,Fees,Office of Natural Resources Revenue,377244
+District of Columbia,Enerplus Corporation,Royalties,Office of Natural Resources Revenue,44137630
 District of Columbia,Enirgi Group Corporation,Royalties,"Office of Natural
  Resources Revenue
- (""ONRR"")",2120115.0
-District of Columbia,Eurasian Minerals Inc.,Fees,Bureau of Land Management,387535.0
-District of Columbia,Franco-Nevada Corporation,Fees,United States Federal Government,150897.0
+ (""ONRR"")",2120115
+District of Columbia,Eurasian Minerals Inc.,Fees,Bureau of Land Management,387535
+District of Columbia,Franco-Nevada Corporation,Fees,United States Federal Government,150897
 District of Columbia,Freegold Ventures Limited,Fees,"Federal Bureau Land
- Management",14760.0
-District of Columbia,Goldcorp Inc.,Fees,US Federal Government - U.S. Department of the Interior: Bureau of Land Management,212660.0
-District of Columbia,Goldcorp Inc.,Taxes,US Federal Government - Internal Revenue Service,8206178.0
-District of Columbia,Graymont Limited,Taxes,Internal Revenue Service,9053873.0
-District of Columbia,Hudbay Minerals Inc.,Taxes,National Government of United States of America,160000.0
-District of Columbia,Imperial Metals Corporation,Fees,Bureau of Land (BLM),113173.0
-District of Columbia,KGHM International,Fees,Federal Government of USA- Mine Safety and Health Administration,80000.0
-District of Columbia,KGHM International,Fees,Federal Government of USA-Bureau of Land Management,160000.0
-District of Columbia,Kinross Gold Corporation,Fees,Federal Government,2280000.0
-District of Columbia,Kinross Gold Corporation,Taxes,Federal Government,12400000.0
-District of Columbia,Klondex Mines Ltd.,Fees,US Federal Government,679040.0
-District of Columbia,Liberty Gold Corp. (formerly Pilot Gold Inc.),Fees,Federal Government of the United States,420000.0
-District of Columbia,McEwen Mining Inc.,Fees,Federal Government of the United States of America,730000.0
-District of Columbia,Midas Gold Corp,Fees,Bureau of Land Management,250000.0
+ Management",14760
+District of Columbia,Goldcorp Inc.,Fees,US Federal Government - U.S. Department of the Interior: Bureau of Land Management,212660
+District of Columbia,Goldcorp Inc.,Taxes,US Federal Government - Internal Revenue Service,8206178
+District of Columbia,Graymont Limited,Taxes,Internal Revenue Service,9053873
+District of Columbia,Hudbay Minerals Inc.,Taxes,National Government of United States of America,160000
+District of Columbia,Imperial Metals Corporation,Fees,Bureau of Land (BLM),113173
+District of Columbia,KGHM International,Fees,Federal Government of USA- Mine Safety and Health Administration,80000
+District of Columbia,KGHM International,Fees,Federal Government of USA-Bureau of Land Management,160000
+District of Columbia,Kinross Gold Corporation,Fees,Federal Government,2280000
+District of Columbia,Kinross Gold Corporation,Taxes,Federal Government,12400000
+District of Columbia,Klondex Mines Ltd.,Fees,US Federal Government,679040
+District of Columbia,Liberty Gold Corp. (formerly Pilot Gold Inc.),Fees,Federal Government of the United States,420000
+District of Columbia,McEwen Mining Inc.,Fees,Federal Government of the United States of America,730000
+District of Columbia,Midas Gold Corp,Fees,Bureau of Land Management,250000
 District of Columbia,NewCastleGold Ltd,Fees,"US Department of the Interior
- Bureau of Land Management",233891.0
-District of Columbia,Potash Corporation of Saskatchewan Inc.,Fees,Government of the United States of America,90000.0
-District of Columbia,Potash Corporation of Saskatchewan Inc.,Taxes,Government of the United States of America,3600000.0
+ Bureau of Land Management",233891
+District of Columbia,Potash Corporation of Saskatchewan Inc.,Fees,Government of the United States of America,90000
+District of Columbia,Potash Corporation of Saskatchewan Inc.,Taxes,Government of the United States of America,3600000
 District of Columbia,Premier Gold Mines Limited,Fees,"US Government -
- Bureau of Land Management",373380.0
-District of Columbia,Quaterra Resources Inc.,Fees,Bureau of Land Management,216031.0
-District of Columbia,ROYAL DUTCH SHELL PLC,Fees,OFFICE OF NATURAL RESOURCES REVENUE,43719240.0
-District of Columbia,ROYAL DUTCH SHELL PLC,Royalties,OFFICE OF NATURAL RESOURCES REVENUE,358903940.0
-District of Columbia,Rio Tinto PLC,Fees,USA FEDERAL,479210.0
-District of Columbia,Rye Patch Gold Corp.,Taxes,Department of Treasury - US,159951.0
-District of Columbia,Scorpio Gold Corporation,Fees,Bureau of Land Management,114372.0
-District of Columbia,Scorpio Gold Corporation,Taxes,Department of Treasury,430061.0
-District of Columbia,Silver Standard Resources Inc.,Fees,Federal Government of the United States of America,467783.0
-District of Columbia,Silver Standard Resources Inc.,Taxes,Federal Government of the United States of America,9506566.0
-District of Columbia,Teck Resources Limited,Fees,Government of United States,105628.0
-District of Columbia,Teck Resources Limited,Taxes,Government of United States,78466899.0
-District of Columbia,Ur-Energy Inc.,Fees,Bureau of Land Management,444575.0
-District of Columbia,Ur-Energy Inc.,Fees,US Nuclear Regulatory Commission,542047.0
-District of Columbia,Uranium One Inc.,Fees,Bureau of Land Management,1078919.0
-District of Columbia,Uranium One Inc.,Fees,U.S. Nuclear Regulatory Commission,724309.0
-District of Columbia,Vermilion Energy Inc.,Fees,Government of the United States of America,4202506.0
-District of Columbia,Vermilion Energy Inc.,Royalties,Government of the United States of America,588501.0
-District of Columbia,West Kirkland Mining Inc.,Fees,U.S. Department of the Interior Bureau of Land Management,105817.0
-Florida,BP P.L.C.,Royalties,Florida Department of Financial Services,129510.0
-Florida,Potash Corporation of Saskatchewan Inc.,Taxes,Hamilton County FL,5480000.0
-Florida,Potash Corporation of Saskatchewan Inc.,Taxes,State of Florida,3480000.0
-Florida,Votorantim Cement North America Inc.,Taxes,Lee County,170000.0
-Florida,Votorantim Cement North America Inc.,Taxes,Suwannee County,1270000.0
-Hawaii,Agrium Inc.,Taxes,Hawaii State Tax Controller,82993.0
-Idaho,Agrium Inc.,Fees,Idaho Department of Environmental Quality,248981.0
-Idaho,Agrium Inc.,Royalties,Idaho Department of Lands,731854.0
-Idaho,Agrium Inc.,Taxes,Caribou County,414969.0
-Idaho,Agrium Inc.,Taxes,Idaho State Tax Commission,2210653.0
-Idaho,Americas Silver Corporation,Taxes,Shoshone County Tax Collector,630917.0
-Idaho,Midas Gold Corp,Fees,Idaho Department of Lands,150000.0
-Idaho,Midas Gold Corp,Payments for infrastructure improvements,Valley County,90000.0
-Illinois,Agrium Inc.,Taxes,Illinois Department of Revenue,3214124.0
-Illinois,"Coeur Mining, Inc.",Taxes,State of Illinois,300000.0
-Illinois,Potash Corporation of Saskatchewan Inc.,Taxes,State of Illinois,210000.0
-Illinois,Votorantim Cement North America Inc.,Fees,State of Illinois,170000.0
-Illinois,Votorantim Cement North America Inc.,Taxes,Cook County,140000.0
-Illinois,Votorantim Cement North America Inc.,Taxes,Kane County,100000.0
-Illinois,Votorantim Cement North America Inc.,Taxes,Kankakee County,80000.0
-Illinois,Votorantim Cement North America Inc.,Taxes,State of Illinois,140000.0
-Indiana,BP P.L.C.,Royalties,State of Indiana,138432.0
-Kansas,Agrium Inc.,Taxes,Kansas Department of Revenue,1033650.0
-Kansas,BP P.L.C.,Royalties,Kansas Holder Services,143394.0
-Louisiana,BP P.L.C.,Royalties,State of Louisiana,255163.0
-Louisiana,BP P.L.C.,Taxes,State of Louisiana,8681235.0
-Louisiana,Encana Corporation,Taxes,St Helena Parish,240000.0
-Louisiana,Encana Corporation,Taxes,State of Louisiana,1060000.0
-Massachusetts,Agrium Inc.,Taxes,Commonwealth of Massachusetts,90538.0
-Michigan,Agrium Inc.,Taxes,State of Michigan - Michigan Department of Treasury,1011015.0
-Michigan,Encana Corporation,Fees,State of Michigan,1000000.0
-Michigan,Votorantim Cement North America Inc.,Fees,State of Michigan,160000.0
-Michigan,Votorantim Cement North America Inc.,Taxes,State of Michigan,120000.0
-Michigan,Votorantim Cement North America Inc.,Taxes,Township of Charlevoix,760000.0
-Minnesota,Agrium Inc.,Taxes,Minnesota Department of Revenue,2655802.0
-Minnesota,Potash Corporation of Saskatchewan Inc.,Taxes,State of Minnesota,180000.0
-Minnesota,Teck Resources Limited,Fees,State of Minnesota,128263.0
-Mississippi,Encana Corporation,Taxes,State of Mississippi,1090000.0
-Missouri,Agrium Inc.,Taxes,Missouri Director of Revenue,754489.0
-Montana,Agrium Inc.,Taxes,Montana Department of Revenue,354610.0
-Montana,BP P.L.C.,Royalties,Montana State Department of Revenue,165833.0
-Montana,Barrick Gold Corporation,Taxes,Jefferson County,1388260.0
-Montana,Barrick Gold Corporation,Taxes,State of Montana,671495.0
-Montana,Enerplus Corporation,Fees,State of Montana,150897.0
-Montana,Enerplus Corporation,Royalties,"Richland County, Montana",128263.0
-Montana,Enerplus Corporation,Royalties,State of Montana,271616.0
-Montana,Enerplus Corporation,Taxes,"Richland County, Montana",150897.0
-Montana,Enerplus Corporation,Taxes,State of Montana,5047534.0
-Montana,Graymont Limited,Taxes,"Broadwater County, Montana",460238.0
-Montana,Graymont Limited,Taxes,"Montana Department of Revenue, Montana",90538.0
-Nebraska,Agrium Inc.,Taxes,Nebraska Department of Revenue,1124189.0
-Nebraska,Cameco Corporation,Fees,Government of Nebraska,146370.0
-Nebraska,Cameco Corporation,Taxes,Dawes County,424777.0
-Nevada,Barrick Gold Corporation,Fees,Eureka County,128263.0
-Nevada,Barrick Gold Corporation,Fees,Lander County,113173.0
-Nevada,Barrick Gold Corporation,Fees,State of Nevada,1297721.0
-Nevada,Barrick Gold Corporation,Taxes,Elko County,543232.0
-Nevada,Barrick Gold Corporation,Taxes,Eureka County,4745738.0
-Nevada,Barrick Gold Corporation,Taxes,Humboldt County,890297.0
-Nevada,Barrick Gold Corporation,Taxes,Lander County,8978424.0
-Nevada,Barrick Gold Corporation,Taxes,State of Nevada,37498124.0
-Nevada,"Coeur Mining, Inc.",Fees,"Pershing County, Nevada",20000.0
-Nevada,"Coeur Mining, Inc.",Fees,State of Nevada,90000.0
-Nevada,"Coeur Mining, Inc.",Taxes,"Pershing County, Nevada",920000.0
-Nevada,"Coeur Mining, Inc.",Taxes,State of Nevada,1850000.0
-Nevada,EntrA©e Gold Inc.,Fees,Bureau of Land Management (Nevada),231668.0
-Nevada,EntrA©e Gold Inc.,Fees,"Douglas County, Nevada",35616.0
-Nevada,EntrA©e Gold Inc.,Fees,"Lyon County, Nevada",9129.0
-Nevada,EntrA©e Gold Inc.,Fees,State of Nevada,1959.0
-Nevada,EntrA©e Gold Inc.,Taxes,"Lyon County, Nevada",350.0
-Nevada,Eurasian Minerals Inc.,Fees,Lander County Treasurer,258.0
-Nevada,Gold Standard Ventures Corp.,Fees,Elko County Recorder,15089.0
-Nevada,Gold Standard Ventures Corp.,Fees,Nevada Bureau of Land Management,196167.0
-Nevada,Gold Standard Ventures Corp.,Fees,Nevada Division of Environment Protection,7544.0
-Nevada,Gold Standard Ventures Corp.,Fees,Nevada Division of Minerals,52814.0
-Nevada,Graymont Limited,Taxes,"Elko County Treasurer, Nevada",113173.0
-Nevada,Graymont Limited,Taxes,"Nevada Tax Commission, Nevada",316885.0
-Nevada,Imperial Metals Corporation,Taxes,NYE County,120718.0
-Nevada,KGHM International,Fees,State of Nevada- Division of Environmental Protection,160000.0
-Nevada,KGHM International,Fees,State of Nevada- Division of Water Resources,260000.0
-Nevada,KGHM International,Fees,White Pine County Treasurer,100000.0
-Nevada,KGHM International,Taxes,White Pine County Treasurer,1290000.0
-Nevada,Kinross Gold Corporation,Fees,State of Nevada,370000.0
-Nevada,Kinross Gold Corporation,Fees,White Pine County,90000.0
-Nevada,Kinross Gold Corporation,Taxes,Nye County,4960000.0
-Nevada,Kinross Gold Corporation,Taxes,State of Nevada,5230000.0
-Nevada,Kinross Gold Corporation,Taxes,White Pine County,1190000.0
-Nevada,Klondex Mines Ltd.,Taxes,Elko County,392334.0
-Nevada,Klondex Mines Ltd.,Taxes,NV State Dept. of Taxation,1939037.0
-Nevada,Rye Patch Gold Corp.,Fees,"Eureka County, Nevada",2263.0
-Nevada,Rye Patch Gold Corp.,Fees,Humboldt County,3772.0
-Nevada,Rye Patch Gold Corp.,Fees,Nevada Department of Wildlife,14335.0
-Nevada,Rye Patch Gold Corp.,Fees,Nevada Division of water resources,1508.0
-Nevada,Rye Patch Gold Corp.,Fees,Nevada LP Gas Board,754.0
-Nevada,Rye Patch Gold Corp.,Fees,Nevada State Treasurer,754.0
-Nevada,Rye Patch Gold Corp.,Fees,"Pershing County, Nevada",22634.0
-Nevada,Rye Patch Gold Corp.,Fees,State of Nevada,3017.0
-Nevada,Rye Patch Gold Corp.,Taxes,State of Nevada,225592.0
-Nevada,Scorpio Gold Corporation,Taxes,Esmeralda County Assessor,295027.0
+ Bureau of Land Management",373380
+District of Columbia,Quaterra Resources Inc.,Fees,Bureau of Land Management,216031
+District of Columbia,ROYAL DUTCH SHELL PLC,Fees,OFFICE OF NATURAL RESOURCES REVENUE,43719240
+District of Columbia,ROYAL DUTCH SHELL PLC,Royalties,OFFICE OF NATURAL RESOURCES REVENUE,358903940
+District of Columbia,ROYAL DUTCH SHELL PLC,Taxes,INTERNAL REVENUE SERVICE,-274196905
+District of Columbia,Rio Tinto PLC,Fees,USA FEDERAL,479210
+District of Columbia,Rio Tinto PLC,Taxes,USA FEDERAL,-14091691
+District of Columbia,Rye Patch Gold Corp.,Taxes,Department of Treasury - US,159951
+District of Columbia,Scorpio Gold Corporation,Fees,Bureau of Land Management,114372
+District of Columbia,Scorpio Gold Corporation,Taxes,Department of Treasury,430061
+District of Columbia,Silver Standard Resources Inc.,Fees,Federal Government of the United States of America,467783
+District of Columbia,Silver Standard Resources Inc.,Taxes,Federal Government of the United States of America,9506566
+District of Columbia,Teck Resources Limited,Fees,Government of United States,105628
+District of Columbia,Teck Resources Limited,Taxes,Government of United States,78466899
+District of Columbia,Ur-Energy Inc.,Fees,Bureau of Land Management,444575
+District of Columbia,Ur-Energy Inc.,Fees,US Nuclear Regulatory Commission,542047
+District of Columbia,Uranium One Inc.,Fees,Bureau of Land Management,1078919
+District of Columbia,Uranium One Inc.,Fees,U.S. Nuclear Regulatory Commission,724309
+District of Columbia,Vermilion Energy Inc.,Fees,Government of the United States of America,4202506
+District of Columbia,Vermilion Energy Inc.,Royalties,Government of the United States of America,588501
+District of Columbia,West Kirkland Mining Inc.,Fees,U.S. Department of the Interior Bureau of Land Management,105817
+Florida,BP P.L.C.,Royalties,Florida Department of Financial Services,129510
+Florida,Potash Corporation of Saskatchewan Inc.,Taxes,Hamilton County FL,5480000
+Florida,Potash Corporation of Saskatchewan Inc.,Taxes,State of Florida,3480000
+Florida,Votorantim Cement North America Inc.,Taxes,Lee County,170000
+Florida,Votorantim Cement North America Inc.,Taxes,Suwannee County,1270000
+Hawaii,Agrium Inc.,Taxes,Hawaii State Tax Controller,82993
+Idaho,Agrium Inc.,Fees,Idaho Department of Environmental Quality,248981
+Idaho,Agrium Inc.,Royalties,Idaho Department of Lands,731854
+Idaho,Agrium Inc.,Taxes,Caribou County,414969
+Idaho,Agrium Inc.,Taxes,Idaho State Tax Commission,2210653
+Idaho,Americas Silver Corporation,Taxes,Shoshone County Tax Collector,630917
+Idaho,Midas Gold Corp,Fees,Idaho Department of Lands,150000
+Idaho,Midas Gold Corp,Payments for infrastructure improvements,Valley County,90000
+Illinois,Agrium Inc.,Taxes,Illinois Department of Revenue,3214124
+Illinois,"Coeur Mining, Inc.",Taxes,State of Illinois,300000
+Illinois,Potash Corporation of Saskatchewan Inc.,Taxes,State of Illinois,210000
+Illinois,Votorantim Cement North America Inc.,Fees,State of Illinois,170000
+Illinois,Votorantim Cement North America Inc.,Taxes,Cook County,140000
+Illinois,Votorantim Cement North America Inc.,Taxes,Kane County,100000
+Illinois,Votorantim Cement North America Inc.,Taxes,Kankakee County,80000
+Illinois,Votorantim Cement North America Inc.,Taxes,State of Illinois,140000
+Indiana,BP P.L.C.,Royalties,State of Indiana,138432
+Kansas,Agrium Inc.,Taxes,Kansas Department of Revenue,1033650
+Kansas,BP P.L.C.,Royalties,Kansas Holder Services,143394
+Louisiana,BP P.L.C.,Royalties,State of Louisiana,255163
+Louisiana,BP P.L.C.,Taxes,State of Louisiana,8681235
+Louisiana,Encana Corporation,Taxes,St Helena Parish,240000
+Louisiana,Encana Corporation,Taxes,State of Louisiana,1060000
+Louisiana,ROYAL DUTCH SHELL PLC,Taxes,LOUISIANA DEPARTMENT OF,-1000000
+Louisiana,ROYAL DUTCH SHELL PLC,Taxes,LOUISIANA STATE REVENUE TAX DEPT,-2308388
+Massachusetts,Agrium Inc.,Taxes,Commonwealth of Massachusetts,90538
+Michigan,Agrium Inc.,Taxes,State of Michigan - Michigan Department of Treasury,1011015
+Michigan,Encana Corporation,Fees,State of Michigan,1000000
+Michigan,Votorantim Cement North America Inc.,Fees,State of Michigan,160000
+Michigan,Votorantim Cement North America Inc.,Taxes,State of Michigan,120000
+Michigan,Votorantim Cement North America Inc.,Taxes,Township of Charlevoix,760000
+Minnesota,Agrium Inc.,Taxes,Minnesota Department of Revenue,2655802
+Minnesota,Potash Corporation of Saskatchewan Inc.,Taxes,State of Minnesota,180000
+Minnesota,Teck Resources Limited,Fees,State of Minnesota,128263
+Mississippi,Encana Corporation,Taxes,State of Mississippi,1090000
+Missouri,Agrium Inc.,Taxes,Missouri Director of Revenue,754489
+Montana,Agrium Inc.,Taxes,Montana Department of Revenue,354610
+Montana,BP P.L.C.,Royalties,Montana State Department of Revenue,165833
+Montana,Barrick Gold Corporation,Taxes,Jefferson County,1388260
+Montana,Barrick Gold Corporation,Taxes,State of Montana,671495
+Montana,Enerplus Corporation,Fees,State of Montana,150897
+Montana,Enerplus Corporation,Royalties,"Richland County, Montana",128263
+Montana,Enerplus Corporation,Royalties,State of Montana,271616
+Montana,Enerplus Corporation,Taxes,"Richland County, Montana",150897
+Montana,Enerplus Corporation,Taxes,State of Montana,5047534
+Montana,Graymont Limited,Taxes,"Broadwater County, Montana",460238
+Montana,Graymont Limited,Taxes,"Montana Department of Revenue, Montana",90538
+Nebraska,Agrium Inc.,Taxes,Nebraska Department of Revenue,1124189
+Nebraska,Cameco Corporation,Fees,Government of Nebraska,146370
+Nebraska,Cameco Corporation,Taxes,Dawes County,424777
+Nevada,Barrick Gold Corporation,Fees,Eureka County,128263
+Nevada,Barrick Gold Corporation,Fees,Lander County,113173
+Nevada,Barrick Gold Corporation,Fees,State of Nevada,1297721
+Nevada,Barrick Gold Corporation,Taxes,Elko County,543232
+Nevada,Barrick Gold Corporation,Taxes,Eureka County,4745738
+Nevada,Barrick Gold Corporation,Taxes,Humboldt County,890297
+Nevada,Barrick Gold Corporation,Taxes,Lander County,8978424
+Nevada,Barrick Gold Corporation,Taxes,State of Nevada,37498124
+Nevada,"Coeur Mining, Inc.",Fees,"Pershing County, Nevada",20000
+Nevada,"Coeur Mining, Inc.",Fees,State of Nevada,90000
+Nevada,"Coeur Mining, Inc.",Taxes,"Pershing County, Nevada",920000
+Nevada,"Coeur Mining, Inc.",Taxes,State of Nevada,1850000
+Nevada,EntrA©e Gold Inc.,Fees,Bureau of Land Management (Nevada),231668
+Nevada,EntrA©e Gold Inc.,Fees,"Douglas County, Nevada",35616
+Nevada,EntrA©e Gold Inc.,Fees,"Lyon County, Nevada",9129
+Nevada,EntrA©e Gold Inc.,Fees,State of Nevada,1959
+Nevada,EntrA©e Gold Inc.,Taxes,"Lyon County, Nevada",350
+Nevada,Eurasian Minerals Inc.,Fees,Lander County Treasurer,258
+Nevada,Gold Standard Ventures Corp.,Fees,Elko County Recorder,15089
+Nevada,Gold Standard Ventures Corp.,Fees,Nevada Bureau of Land Management,196167
+Nevada,Gold Standard Ventures Corp.,Fees,Nevada Division of Environment Protection,7544
+Nevada,Gold Standard Ventures Corp.,Fees,Nevada Division of Minerals,52814
+Nevada,Graymont Limited,Taxes,"Elko County Treasurer, Nevada",113173
+Nevada,Graymont Limited,Taxes,"Nevada Tax Commission, Nevada",316885
+Nevada,Imperial Metals Corporation,Taxes,NYE County,120718
+Nevada,KGHM International,Fees,State of Nevada- Division of Environmental Protection,160000
+Nevada,KGHM International,Fees,State of Nevada- Division of Water Resources,260000
+Nevada,KGHM International,Fees,White Pine County Treasurer,100000
+Nevada,KGHM International,Taxes,White Pine County Treasurer,1290000
+Nevada,Kinross Gold Corporation,Fees,State of Nevada,370000
+Nevada,Kinross Gold Corporation,Fees,White Pine County,90000
+Nevada,Kinross Gold Corporation,Taxes,Nye County,4960000
+Nevada,Kinross Gold Corporation,Taxes,State of Nevada,5230000
+Nevada,Kinross Gold Corporation,Taxes,White Pine County,1190000
+Nevada,Klondex Mines Ltd.,Taxes,Elko County,392334
+Nevada,Klondex Mines Ltd.,Taxes,NV State Dept. of Taxation,1939037
+Nevada,Rye Patch Gold Corp.,Fees,"Eureka County, Nevada",2263
+Nevada,Rye Patch Gold Corp.,Fees,Humboldt County,3772
+Nevada,Rye Patch Gold Corp.,Fees,Nevada Department of Wildlife,14335
+Nevada,Rye Patch Gold Corp.,Fees,Nevada Division of water resources,1508
+Nevada,Rye Patch Gold Corp.,Fees,Nevada LP Gas Board,754
+Nevada,Rye Patch Gold Corp.,Fees,Nevada State Treasurer,754
+Nevada,Rye Patch Gold Corp.,Fees,"Pershing County, Nevada",22634
+Nevada,Rye Patch Gold Corp.,Fees,State of Nevada,3017
+Nevada,Rye Patch Gold Corp.,Taxes,State of Nevada,225592
+Nevada,Scorpio Gold Corporation,Taxes,Esmeralda County Assessor,295027
 Nevada,Scorpio Gold Corporation,Taxes,"Nevada Department of
- taxation",219350.0
-Nevada,Silver Standard Resources Inc.,Fees,"Humboldt County, Nevada",15089.0
-Nevada,Silver Standard Resources Inc.,Fees,State of Nevada,150897.0
-Nevada,Silver Standard Resources Inc.,Royalties,State of Nevada,1441074.0
-Nevada,Silver Standard Resources Inc.,Taxes,"Humboldt County, Nevada",943111.0
-Nevada,Silver Standard Resources Inc.,Taxes,State of Nevada,4277955.0
-Nevada,TriMetals Mining Inc.,Fees,State of Nevada,130000.0
-Nevada or District of Columbia?,Rye Patch Gold Corp.,Fees,Bureau of Land Management - Nevada,310849.0
-Nevada or District of Columbia?,Rye Patch Gold Corp.,Fees,Department of Labour - Nevada,3772.0
-New Jersey,BP P.L.C.,Royalties,New Jersey State Treasury,115735.0
-New Mexico,BP P.L.C.,Royalties,State of New Mexico,1877594.0
-New Mexico,BP P.L.C.,Taxes,State of New Mexico,11876631.0
-New Mexico,Encana Corporation,Royalties,State of New Mexico,1110000.0
-New Mexico,Encana Corporation,Taxes,State of New Mexico,5170000.0
-New Mexico,EntrA©e Gold Inc.,Fees,Bureau of Land Management (New Mexico),40995.0
+ taxation",219350
+Nevada,Silver Standard Resources Inc.,Fees,"Humboldt County, Nevada",15089
+Nevada,Silver Standard Resources Inc.,Fees,State of Nevada,150897
+Nevada,Silver Standard Resources Inc.,Royalties,State of Nevada,1441074
+Nevada,Silver Standard Resources Inc.,Taxes,"Humboldt County, Nevada",943111
+Nevada,Silver Standard Resources Inc.,Taxes,State of Nevada,4277955
+Nevada,TriMetals Mining Inc.,Fees,State of Nevada,130000
+Nevada or District of Columbia?,Rye Patch Gold Corp.,Fees,Bureau of Land Management - Nevada,310849
+Nevada or District of Columbia?,Rye Patch Gold Corp.,Fees,Department of Labour - Nevada,3772
+New Jersey,BP P.L.C.,Royalties,New Jersey State Treasury,115735
+New Jersey,ROYAL DUTCH SHELL PLC,Taxes,STATE OF NEW JERSEY,-345383
+New Mexico,BP P.L.C.,Royalties,State of New Mexico,1877594
+New Mexico,BP P.L.C.,Taxes,State of New Mexico,11876631
+New Mexico,Encana Corporation,Royalties,State of New Mexico,1110000
+New Mexico,Encana Corporation,Taxes,State of New Mexico,5170000
+New Mexico,EntrA©e Gold Inc.,Fees,Bureau of Land Management (New Mexico),40995
 New Mexico,IC Potash Corp.,Royalties,"New Mexico State Land Office -
- Commissioner of Public Lands",305332.0
-New Mexico,TriMetals Mining Inc.,Fees,State of New Mexico,10000.0
-New York,Agrium Inc.,Taxes,New York State Corporation Tax,248981.0
-New York,Graymont Limited,Fees,"Department of Environmental Conservatism, New York",120718.0
-New York,Graymont Limited,Taxes,"City of Plattsburgh, New York",150897.0
-New York,Potash Corporation of Saskatchewan Inc.,Taxes,State of New York,80000.0
-New York,ROYAL DUTCH SHELL PLC,Taxes,NYC DEPARTMENT OF FINANCE,228970.0
-"New York, Pennsylvania, Maryland",ROYAL DUTCH SHELL PLC,Fees,SUSQUEHANNA RIVER BASIN COMMISSION,178893.0
-North Carolina,Potash Corporation of Saskatchewan Inc.,Fees,State of North Carolina,270000.0
-North Carolina,Potash Corporation of Saskatchewan Inc.,Taxes,Beaufort County NC,6050000.0
-North Carolina,Potash Corporation of Saskatchewan Inc.,Taxes,State of North Carolina,1100000.0
-North Dakota,Agrium Inc.,Taxes,North Dakota State Tax Commission,958201.0
-North Dakota,Crescent Point Energy Corp.,Royalties,STATE OF NORTH DAKOTA,867662.0
-North Dakota,Enerplus Corporation,Bonuses,Fort Berthold Indian Reservation,90538.0
-North Dakota,Enerplus Corporation,Fees,Fort Berthold Indian Reservation,4360948.0
-North Dakota,Enerplus Corporation,Fees,State of North Dakota,211257.0
-North Dakota,Enerplus Corporation,Taxes,State of North Dakota,20748459.0
-North Dakota,PetroShale Inc.,Bonuses,Fort Berthold Agency,5658670.0
-North Dakota,PetroShale Inc.,Fees,Fort Berthold Agency,188622.0
-North Dakota,Prairie Provident Resources Inc.,Royalties,State of North Dakota,369699.0
-Oklahoma,BNK Petroleum Inc.,Bonuses,OKLAHOMA CORPORATION COMMISSION,11031.0
-Oklahoma,BNK Petroleum Inc.,Fees,JOHNSTON COUNTY OKLAHOMA CLERK,249.0
-Oklahoma,BNK Petroleum Inc.,Fees,JOHNSTON COUNTY OKLAHOMA COMMISSIONER,2000.0
-Oklahoma,BNK Petroleum Inc.,Fees,OKLAHOMA DEPT OF ENVIROMENTAL QUALITY,1575.0
-Oklahoma,BNK Petroleum Inc.,Taxes,OKLAHOMA FRANCHISE TAX BOARD,20100.0
-Oklahoma,BNK Petroleum Inc.,Taxes,OKLAHOMA TAX COMMISSION,156456.0
-Oklahoma,BP P.L.C.,Royalties,State of Oklahoma,1865637.0
-Oklahoma,BP P.L.C.,Taxes,State of Oklahoma,2574540.0
-Oregon,Agrium Inc.,Taxes,Oregon Department of Revenue,558322.0
-Oregon,Teck Resources Limited,Fees,State of Oregon,203712.0
-Pennsylvania,Graymont Limited,Taxes,"State College, Pennsylvania",324430.0
-Pennsylvania,ROYAL DUTCH SHELL PLC,Fees,BOROUGH OF WELLSBORO,762270.0
-Pennsylvania,ROYAL DUTCH SHELL PLC,Fees,COMMONWEALTH OF PENNSYLVANIA,7472894.0
-Pennsylvania,ROYAL DUTCH SHELL PLC,Fees,COMMONWEALTH OF PENNSYLVANIA - DCNR,213323.0
-Pennsylvania,ROYAL DUTCH SHELL PLC,Fees,PA DEPARTMENT OF TRANSPORTATION,725000.0
-Pennsylvania,ROYAL DUTCH SHELL PLC,Fees,THE BOROUGH OF ELKLAND,216183.0
-Pennsylvania,ROYAL DUTCH SHELL PLC,Royalties,COMMONWEALTH OF PENNSYLVANIA,125446.0
-Pennsylvania,ROYAL DUTCH SHELL PLC,Taxes,PENNSYLVANIA DEPARTMENT OF REVENUE,1540000.0
-South Carolina,OceanaGold Corporation,Fees,State of South Carolina,510000.0
-South Carolina,OceanaGold Corporation,Taxes,Lancaster County Treasurer,530000.0
-South Dakota,Barrick Gold Corporation,Taxes,Lawrence County,60359.0
-South Dakota,"Coeur Mining, Inc.",Fees,State of South Dakota,60000.0
-South Dakota,"Coeur Mining, Inc.",Taxes,"Lawrence County, South Dakota",540000.0
-South Dakota,"Coeur Mining, Inc.",Taxes,State of South Dakota,7300000.0
-South Dakota,Goldcorp Inc.,Taxes,Lawrence County - South Dakota,393210.0
-Texas,Agrium Inc.,Taxes,State Comptroller- Texas,565867.0
-Texas,BP P.L.C.,Royalties,State of Texas,2955969.0
-Texas,BP P.L.C.,Taxes,State of Texas,4745554.0
-Texas,Baytex Energy Corp.,Fees,Texas Railroad Commission,241436.0
-Texas,Baytex Energy Corp.,Royalties,State of Texas,11166443.0
-Texas,Baytex Energy Corp.,Taxes,Atascosa County,316885.0
-Texas,Baytex Energy Corp.,Taxes,State of Texas,1305266.0
-Texas,CNOOC Limited,Fees,University of Houston Systems,79878.0
-Texas,CNOOC Limited,Taxes,State of Texas,21220629.0
-Texas,CNOOC Limited,Taxes,Texas State Tax Commission,101.0
-Texas,Eagle Energy Inc.,Fees,State of Texas,301795.0
-Texas,Eagle Energy Inc.,Royalties,State of Texas,1229817.0
-Texas,Eagle Energy Inc.,Taxes,Caldwell County Appraisal District,513052.0
-Texas,Eagle Energy Inc.,Taxes,Hardeman County,143352.0
-Texas,Eagle Energy Inc.,Taxes,State of Texas,37724.0
-Texas,Encana Corporation,Fees,State of Texas,1040000.0
-Texas,Encana Corporation,Royalties,State of Texas,2030000.0
-Texas,Encana Corporation,Taxes,Andrews County,100000.0
-Texas,Encana Corporation,Taxes,Crane County,80000.0
-Texas,Encana Corporation,Taxes,Dawson County,450000.0
-Texas,Encana Corporation,Taxes,Glasscock County,1340000.0
-Texas,Encana Corporation,Taxes,Howard County,2390000.0
-Texas,Encana Corporation,Taxes,Karnes County,10200000.0
-Texas,Encana Corporation,Taxes,Martin County,2590000.0
-Texas,Encana Corporation,Taxes,Midland County,1720000.0
-Texas,Encana Corporation,Taxes,State of Texas,65200000.0
-Texas,Energy Fuels Inc,Fees,Railroad Commission of Texas,7544.0
-Texas,Energy Fuels Inc,Fees,Railroad Commission of Texas,7544.0
-Texas,Energy Fuels Inc,Fees,Texas Commission on Environmental Quality,67904.0
-Texas,Energy Fuels Inc,Fees,Texas Commission on Environmental Quality,67904.0
-Texas,Energy Fuels Inc,Fees,Texas Department of State Health Services,15089.0
-Texas,Energy Fuels Inc,Fees,Texas Department of State Health Services,15089.0
-Texas,ROYAL DUTCH SHELL PLC,Fees,THE UNIVERSITY OF TEXAS SYSTEM,1255641.0
-Texas,ROYAL DUTCH SHELL PLC,Fees,UNIVERSITY LANDS,3600400.0
-Texas,ROYAL DUTCH SHELL PLC,Royalties,STATE OF TEXAS,15748276.0
-Texas,ROYAL DUTCH SHELL PLC,Taxes,STATE OF TEXAS,13541715.0
-Utah,Crescent Point Energy Corp.,Bonuses,STATE OF UTAH,339520.0
-Utah,Crescent Point Energy Corp.,Bonuses,UTE INDIAN TRIBE,2188019.0
-Utah,Crescent Point Energy Corp.,Fees,STATE OF UTAH,218801.0
-Utah,Crescent Point Energy Corp.,Fees,UTE INDIAN TRIBE,656405.0
-Utah,Crescent Point Energy Corp.,Royalties,STATE OF UTAH,437603.0
-Utah,Crescent Point Energy Corp.,Royalties,UTE INDIAN TRIBE,6058550.0
-Utah,Crescent Point Energy Corp.,Taxes,DUSCHESNE COUNTY,158442.0
-Utah,Crescent Point Energy Corp.,Taxes,STATE OF UTAH,4066697.0
-Utah,Crescent Point Energy Corp.,Taxes,UINTAH COUNTY,2105025.0
-Utah,Crescent Point Energy Corp.,Taxes,UTE INDIAN TRIBE,1637242.0
-Utah,Energy Fuels Inc,Fees,"Utah Division of Oil, Gas and Mining",7544.0
-Utah,Energy Fuels Inc,Fees,"Utah Division of Oil, Gas and Mining",7544.0
-Utah,Energy Fuels Inc,Fees,Utah Division of Radiation Control,113173.0
-Utah,Energy Fuels Inc,Fees,Utah Division of Radiation Control,113173.0
-Utah,Energy Fuels Inc,Fees,Utah Trust Lands Administration,143352.0
-Utah,Energy Fuels Inc,Fees,Utah Trust Lands Administration,143352.0
-Utah,Energy Fuels Inc,Taxes,"San Juan County, Utah",407424.0
-Utah,Energy Fuels Inc,Taxes,"San Juan County, Utah",407424.0
-Utah,Graymont Limited,Royalties,"Trust Lands Administration, Utah",377244.0
-Utah,Graymont Limited,Taxes,"Millard County Treasurer, Utah",2097480.0
-Utah,Graymont Limited,Taxes,"Utah State Tax Commission, Utah",264071.0
-Utah,Rio Tinto PLC,Fees,SALT LAKE COUNTY (UTAH),43365463.0
-Utah,Rio Tinto PLC,Fees,UTAH GOVERNMENT,141711.0
-Utah,Rio Tinto PLC,Royalties,UTAH GOVERNMENT,6005283.0
-Utah,TriMetals Mining Inc.,Fees,State of Utah,60000.0
-Washington,BP P.L.C.,Royalties,Washington Department of Revenue,349356.0
-Washington,Kinross Gold Corporation,Fees,State of Washington,240000.0
-Washington,Kinross Gold Corporation,Taxes,Ferry County,190000.0
-Washington,Kinross Gold Corporation,Taxes,Okanogan County,540000.0
-Washington,Kinross Gold Corporation,Taxes,State of Washington,380000.0
-Washington,Teck Resources Limited,Royalties,State of Washington,543232.0
-Washington,Teck Resources Limited,Taxes,City of Pend Oreille,286705.0
-Washington,TransAlta Corporation,Fees,Washington State,129571.0
-Washington,TransAlta Corporation,Taxes,Washington State,40026.0
-Wisconsin,Source Energy Services US LP,Bonuses,"Barron County, Wisconsin",256526.0
-Wisconsin,Source Energy Services US LP,Taxes,"Barron County, Wisconsin",203712.0
-Wisconsin,Source Energy Services US LP,Taxes,"Rusk County, Wisconsin",354610.0
-Wyoming,BP P.L.C.,Royalties,State of Wyoming,831455.0
-Wyoming,BP P.L.C.,Taxes,State of Wyoming,13336343.0
-Wyoming,CNOOC Limited,Taxes,State of Wyoming,3852823.0
-Wyoming,Cameco Corporation,Fees,Government of Wyoming,263316.0
-Wyoming,Cameco Corporation,Royalties,Government of Wyoming,774860.0
-Wyoming,Cameco Corporation,Taxes,Campbell County,780142.0
-Wyoming,Cameco Corporation,Taxes,Converse County,2261959.0
-Wyoming,Encana Corporation,Royalties,State of Wyoming,3970000.0
-Wyoming,Encana Corporation,Taxes,Fremont County,3710000.0
-Wyoming,Encana Corporation,Taxes,Natrona County,340000.0
-Wyoming,Encana Corporation,Taxes,Shoshone and Arapaho Tribes,590000.0
-Wyoming,Encana Corporation,Taxes,State of Wyoming,470000.0
-Wyoming,Encana Corporation,Taxes,Sublette County,9980000.0
-Wyoming,Energy Fuels Inc,Fees,Wyoming Office of State Lands,30179.0
-Wyoming,Energy Fuels Inc,Fees,Wyoming Office of State Lands,30179.0
-Wyoming,Energy Fuels Inc,Taxes,"Johnson County, Wyoming",1169458.0
-Wyoming,Energy Fuels Inc,Taxes,"Johnson County, Wyoming",1169458.0
-Wyoming,Energy Fuels Inc,Taxes,Wyoming Department of Revenue,384789.0
-Wyoming,Energy Fuels Inc,Taxes,Wyoming Department of Revenue,384789.0
-Wyoming,ROYAL DUTCH SHELL PLC,Taxes,STATE OF WYOMING,8461187.0
-Wyoming,Ur-Energy Inc.,Fees,Carbon County Wyoming,295.0
-Wyoming,Ur-Energy Inc.,Fees,Fremont County Wyoming,69.0
-Wyoming,Ur-Energy Inc.,Fees,State of Wyoming,15862.0
-Wyoming,Ur-Energy Inc.,Fees,"Sweetwater County, Wyoming",285.0
-Wyoming,Ur-Energy Inc.,Taxes,Carbon County Wyoming,3471.0
-Wyoming,Ur-Energy Inc.,Taxes,Fremont County Wyoming,223.0
-Wyoming,Ur-Energy Inc.,Taxes,State of Wyoming,618576.0
-Wyoming,Ur-Energy Inc.,Taxes,"Sweetwater County, Wyoming",1447498.0
-Wyoming,Uranium One Inc.,Fees,Wyoming Office of State Lands & Investments,135808.0
-Wyoming,Uranium One Inc.,Taxes,Campbell County Treasurer,105628.0
-Wyoming,Uranium One Inc.,Taxes,Johnson County Treasurer,633771.0
-Wyoming,Vermilion Energy Inc.,Fees,State of Wyoming,331975.0
-Wyoming,Vermilion Energy Inc.,Royalties,State of Wyoming,301795.0
-,Baytex Energy Corp.,Taxes,Various counties,4632565.0
-,Eurasian Minerals Inc.,Fees,County Recorder (Various),10799.0
-,Eurasian Minerals Inc.,Fees,Secretary of State (Various),1084.0
-,ROYAL DUTCH SHELL PLC,Fees,COMMISSIONER OF THE GENERAL LAND,203100.0
-,ROYAL DUTCH SHELL PLC,Fees,"DIRECTOR, DIVISION OF OIL AND GAS",243408.0
-,Rye Patch Gold Corp.,Fees,State Emergency Response Commission,3772.0
+ Commissioner of Public Lands",305332
+New Mexico,TriMetals Mining Inc.,Fees,State of New Mexico,10000
+New York,Agrium Inc.,Taxes,New York State Corporation Tax,248981
+New York,Graymont Limited,Fees,"Department of Environmental Conservatism, New York",120718
+New York,Graymont Limited,Taxes,"City of Plattsburgh, New York",150897
+New York,Potash Corporation of Saskatchewan Inc.,Taxes,State of New York,80000
+New York,ROYAL DUTCH SHELL PLC,Taxes,NYC DEPARTMENT OF FINANCE,228970
+"New York, Pennsylvania, Maryland",ROYAL DUTCH SHELL PLC,Fees,SUSQUEHANNA RIVER BASIN COMMISSION,178893
+North Carolina,Potash Corporation of Saskatchewan Inc.,Fees,State of North Carolina,270000
+North Carolina,Potash Corporation of Saskatchewan Inc.,Taxes,Beaufort County NC,6050000
+North Carolina,Potash Corporation of Saskatchewan Inc.,Taxes,State of North Carolina,1100000
+North Dakota,Agrium Inc.,Taxes,North Dakota State Tax Commission,958201
+North Dakota,Crescent Point Energy Corp.,Royalties,STATE OF NORTH DAKOTA,867662
+North Dakota,Enerplus Corporation,Bonuses,Fort Berthold Indian Reservation,90538
+North Dakota,Enerplus Corporation,Fees,Fort Berthold Indian Reservation,4360948
+North Dakota,Enerplus Corporation,Fees,State of North Dakota,211257
+North Dakota,Enerplus Corporation,Taxes,State of North Dakota,20748459
+North Dakota,PetroShale Inc.,Bonuses,Fort Berthold Agency,5658670
+North Dakota,PetroShale Inc.,Fees,Fort Berthold Agency,188622
+North Dakota,Prairie Provident Resources Inc.,Royalties,State of North Dakota,369699
+Ohio,Total SA,Taxes,Carroll County,1173000
+Ohio,Total SA,Taxes,Columbiana County,191000
+Ohio,Total SA,Taxes,Harrison County,626000
+Ohio,Total SA,Taxes,State of Ohio,3129000
+Oklahoma,BNK Petroleum Inc.,Bonuses,OKLAHOMA CORPORATION COMMISSION,11031
+Oklahoma,BNK Petroleum Inc.,Fees,JOHNSTON COUNTY OKLAHOMA CLERK,249
+Oklahoma,BNK Petroleum Inc.,Fees,JOHNSTON COUNTY OKLAHOMA COMMISSIONER,2000
+Oklahoma,BNK Petroleum Inc.,Fees,OKLAHOMA DEPT OF ENVIROMENTAL QUALITY,1575
+Oklahoma,BNK Petroleum Inc.,Taxes,OKLAHOMA FRANCHISE TAX BOARD,20100
+Oklahoma,BNK Petroleum Inc.,Taxes,OKLAHOMA TAX COMMISSION,156456
+Oklahoma,BP P.L.C.,Royalties,State of Oklahoma,1865637
+Oklahoma,BP P.L.C.,Taxes,State of Oklahoma,2574540
+Oregon,Agrium Inc.,Taxes,Oregon Department of Revenue,558322
+Oregon,Teck Resources Limited,Fees,State of Oregon,203712
+Pennsylvania,Graymont Limited,Taxes,"State College, Pennsylvania",324430
+Pennsylvania,ROYAL DUTCH SHELL PLC,Fees,BOROUGH OF WELLSBORO,762270
+Pennsylvania,ROYAL DUTCH SHELL PLC,Fees,COMMONWEALTH OF PENNSYLVANIA,7472894
+Pennsylvania,ROYAL DUTCH SHELL PLC,Fees,COMMONWEALTH OF PENNSYLVANIA - DCNR,213323
+Pennsylvania,ROYAL DUTCH SHELL PLC,Fees,PA DEPARTMENT OF TRANSPORTATION,725000
+Pennsylvania,ROYAL DUTCH SHELL PLC,Fees,THE BOROUGH OF ELKLAND,216183
+Pennsylvania,ROYAL DUTCH SHELL PLC,Royalties,COMMONWEALTH OF PENNSYLVANIA,125446
+Pennsylvania,ROYAL DUTCH SHELL PLC,Taxes,PENNSYLVANIA DEPARTMENT OF REVENUE,1540000
+South Carolina,OceanaGold Corporation,Fees,State of South Carolina,510000
+South Carolina,OceanaGold Corporation,Taxes,Lancaster County Treasurer,530000
+South Dakota,Barrick Gold Corporation,Taxes,Lawrence County,60359
+South Dakota,"Coeur Mining, Inc.",Fees,State of South Dakota,60000
+South Dakota,"Coeur Mining, Inc.",Taxes,"Lawrence County, South Dakota",540000
+South Dakota,"Coeur Mining, Inc.",Taxes,State of South Dakota,7300000
+South Dakota,Goldcorp Inc.,Taxes,Lawrence County - South Dakota,393210
+Texas,Agrium Inc.,Taxes,State Comptroller- Texas,565867
+Texas,BP P.L.C.,Royalties,State of Texas,2955969
+Texas,BP P.L.C.,Taxes,State of Texas,4745554
+Texas,Baytex Energy Corp.,Fees,Texas Railroad Commission,241436
+Texas,Baytex Energy Corp.,Royalties,State of Texas,11166443
+Texas,Baytex Energy Corp.,Taxes,Atascosa County,316885
+Texas,Baytex Energy Corp.,Taxes,State of Texas,1305266
+Texas,CNOOC Limited,Fees,University of Houston Systems,79878
+Texas,CNOOC Limited,Taxes,State of Texas,21220629
+Texas,CNOOC Limited,Taxes,Texas State Tax Commission,101
+Texas,Eagle Energy Inc.,Fees,State of Texas,301795
+Texas,Eagle Energy Inc.,Royalties,State of Texas,1229817
+Texas,Eagle Energy Inc.,Taxes,Caldwell County Appraisal District,513052
+Texas,Eagle Energy Inc.,Taxes,Hardeman County,143352
+Texas,Eagle Energy Inc.,Taxes,State of Texas,37724
+Texas,Encana Corporation,Fees,State of Texas,1040000
+Texas,Encana Corporation,Royalties,State of Texas,2030000
+Texas,Encana Corporation,Taxes,Andrews County,100000
+Texas,Encana Corporation,Taxes,Crane County,80000
+Texas,Encana Corporation,Taxes,Dawson County,450000
+Texas,Encana Corporation,Taxes,Glasscock County,1340000
+Texas,Encana Corporation,Taxes,Howard County,2390000
+Texas,Encana Corporation,Taxes,Karnes County,10200000
+Texas,Encana Corporation,Taxes,Martin County,2590000
+Texas,Encana Corporation,Taxes,Midland County,1720000
+Texas,Encana Corporation,Taxes,State of Texas,65200000
+Texas,Energy Fuels Inc,Fees,Railroad Commission of Texas,7544
+Texas,Energy Fuels Inc,Fees,Railroad Commission of Texas,7544
+Texas,Energy Fuels Inc,Fees,Texas Commission on Environmental Quality,67904
+Texas,Energy Fuels Inc,Fees,Texas Commission on Environmental Quality,67904
+Texas,Energy Fuels Inc,Fees,Texas Department of State Health Services,15089
+Texas,Energy Fuels Inc,Fees,Texas Department of State Health Services,15089
+Texas,ROYAL DUTCH SHELL PLC,Fees,THE UNIVERSITY OF TEXAS SYSTEM,1255641
+Texas,ROYAL DUTCH SHELL PLC,Fees,UNIVERSITY LANDS,3600400
+Texas,ROYAL DUTCH SHELL PLC,Royalties,STATE OF TEXAS,15748276
+Texas,ROYAL DUTCH SHELL PLC,Taxes,STATE OF TEXAS,13541715
+Texas,Total SA,Royalties,Arlington Independant School District,120000
+Texas,Total SA,Royalties,Birdville Independent School District,925000
+Texas,Total SA,Royalties,City of Arlington,268000
+Texas,Total SA,Royalties,City of Grand Prairie,462000
+Texas,Total SA,Royalties,Dallas/Fort Worth International Airport Board,362000
+Texas,Total SA,Royalties,Fort Worth Independant School District,320000
+Texas,Total SA,Royalties,Kennedale Independant School District,393000
+Texas,Total SA,Royalties,Tarrant County AAAA,136000
+Texas,Total SA,Royalties,Tarrant County College,355000
+Texas,Total SA,Royalties,Tarrant Regional Water District,293000
+Texas,Total SA,Taxes,City of Fort Worth,1494000
+Texas,Total SA,Taxes,Johnson County Tax Assessor,242000
+Texas,Total SA,Taxes,Tarrant County Tax Assessor,1753000
+Texas,Total SA,Taxes,Texas State Comptroller’s Office,328000
+Utah,Crescent Point Energy Corp.,Bonuses,STATE OF UTAH,339520
+Utah,Crescent Point Energy Corp.,Bonuses,UTE INDIAN TRIBE,2188019
+Utah,Crescent Point Energy Corp.,Fees,STATE OF UTAH,218801
+Utah,Crescent Point Energy Corp.,Fees,UTE INDIAN TRIBE,656405
+Utah,Crescent Point Energy Corp.,Royalties,STATE OF UTAH,437603
+Utah,Crescent Point Energy Corp.,Royalties,UTE INDIAN TRIBE,6058550
+Utah,Crescent Point Energy Corp.,Taxes,DUSCHESNE COUNTY,158442
+Utah,Crescent Point Energy Corp.,Taxes,STATE OF UTAH,4066697
+Utah,Crescent Point Energy Corp.,Taxes,UINTAH COUNTY,2105025
+Utah,Crescent Point Energy Corp.,Taxes,UTE INDIAN TRIBE,1637242
+Utah,Energy Fuels Inc,Fees,"Utah Division of Oil, Gas and Mining",7544
+Utah,Energy Fuels Inc,Fees,"Utah Division of Oil, Gas and Mining",7544
+Utah,Energy Fuels Inc,Fees,Utah Division of Radiation Control,113173
+Utah,Energy Fuels Inc,Fees,Utah Division of Radiation Control,113173
+Utah,Energy Fuels Inc,Fees,Utah Trust Lands Administration,143352
+Utah,Energy Fuels Inc,Fees,Utah Trust Lands Administration,143352
+Utah,Energy Fuels Inc,Taxes,"San Juan County, Utah",407424
+Utah,Energy Fuels Inc,Taxes,"San Juan County, Utah",407424
+Utah,Graymont Limited,Royalties,"Trust Lands Administration, Utah",377244
+Utah,Graymont Limited,Taxes,"Millard County Treasurer, Utah",2097480
+Utah,Graymont Limited,Taxes,"Utah State Tax Commission, Utah",264071
+Utah,Rio Tinto PLC,Fees,SALT LAKE COUNTY (UTAH),43365463
+Utah,Rio Tinto PLC,Fees,UTAH GOVERNMENT,141711
+Utah,Rio Tinto PLC,Royalties,UTAH GOVERNMENT,6005283
+Utah,TriMetals Mining Inc.,Fees,State of Utah,60000
+Washington,BP P.L.C.,Royalties,Washington Department of Revenue,349356
+Washington,Kinross Gold Corporation,Fees,State of Washington,240000
+Washington,Kinross Gold Corporation,Taxes,Ferry County,190000
+Washington,Kinross Gold Corporation,Taxes,Okanogan County,540000
+Washington,Kinross Gold Corporation,Taxes,State of Washington,380000
+Washington,Teck Resources Limited,Royalties,State of Washington,543232
+Washington,Teck Resources Limited,Taxes,City of Pend Oreille,286705
+Washington,TransAlta Corporation,Fees,Washington State,129571
+Washington,TransAlta Corporation,Taxes,Washington State,40026
+Wisconsin,Source Energy Services US LP,Bonuses,"Barron County, Wisconsin",256526
+Wisconsin,Source Energy Services US LP,Taxes,"Barron County, Wisconsin",203712
+Wisconsin,Source Energy Services US LP,Taxes,"Rusk County, Wisconsin",354610
+Wyoming,BP P.L.C.,Royalties,State of Wyoming,831455
+Wyoming,BP P.L.C.,Taxes,State of Wyoming,13336343
+Wyoming,CNOOC Limited,Taxes,State of Wyoming,3852823
+Wyoming,Cameco Corporation,Fees,Government of Wyoming,263316
+Wyoming,Cameco Corporation,Royalties,Government of Wyoming,774860
+Wyoming,Cameco Corporation,Taxes,Campbell County,780142
+Wyoming,Cameco Corporation,Taxes,Converse County,2261959
+Wyoming,Encana Corporation,Royalties,State of Wyoming,3970000
+Wyoming,Encana Corporation,Taxes,Fremont County,3710000
+Wyoming,Encana Corporation,Taxes,Natrona County,340000
+Wyoming,Encana Corporation,Taxes,Shoshone and Arapaho Tribes,590000
+Wyoming,Encana Corporation,Taxes,State of Wyoming,470000
+Wyoming,Encana Corporation,Taxes,Sublette County,9980000
+Wyoming,Energy Fuels Inc,Fees,Wyoming Office of State Lands,30179
+Wyoming,Energy Fuels Inc,Fees,Wyoming Office of State Lands,30179
+Wyoming,Energy Fuels Inc,Taxes,"Johnson County, Wyoming",1169458
+Wyoming,Energy Fuels Inc,Taxes,"Johnson County, Wyoming",1169458
+Wyoming,Energy Fuels Inc,Taxes,Wyoming Department of Revenue,384789
+Wyoming,Energy Fuels Inc,Taxes,Wyoming Department of Revenue,384789
+Wyoming,ROYAL DUTCH SHELL PLC,Taxes,STATE OF WYOMING,8461187
+Wyoming,Ur-Energy Inc.,Fees,Carbon County Wyoming,295
+Wyoming,Ur-Energy Inc.,Fees,Fremont County Wyoming,69
+Wyoming,Ur-Energy Inc.,Fees,State of Wyoming,15862
+Wyoming,Ur-Energy Inc.,Fees,"Sweetwater County, Wyoming",285
+Wyoming,Ur-Energy Inc.,Taxes,Carbon County Wyoming,3471
+Wyoming,Ur-Energy Inc.,Taxes,Fremont County Wyoming,223
+Wyoming,Ur-Energy Inc.,Taxes,State of Wyoming,618576
+Wyoming,Ur-Energy Inc.,Taxes,"Sweetwater County, Wyoming",1447498
+Wyoming,Uranium One Inc.,Fees,Wyoming Office of State Lands & Investments,135808
+Wyoming,Uranium One Inc.,Taxes,Campbell County Treasurer,105628
+Wyoming,Uranium One Inc.,Taxes,Johnson County Treasurer,633771
+Wyoming,Vermilion Energy Inc.,Fees,State of Wyoming,331975
+Wyoming,Vermilion Energy Inc.,Royalties,State of Wyoming,301795
+,Baytex Energy Corp.,Taxes,Various counties,4632565
+,Eurasian Minerals Inc.,Fees,County Recorder (Various),10799
+,Eurasian Minerals Inc.,Fees,Secretary of State (Various),1084
+,ROYAL DUTCH SHELL PLC,Fees,COMMISSIONER OF THE GENERAL LAND,203100
+,ROYAL DUTCH SHELL PLC,Fees,"DIRECTOR, DIVISION OF OIL AND GAS",243408
+,Rye Patch Gold Corp.,Fees,State Emergency Response Commission,3772

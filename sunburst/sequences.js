@@ -1,154 +1,3 @@
-var categories = {
-"A Myo thar Hluttaw": 0,
-"Agriculture and Irrigation": 1,
-"Aid": 2,
-"Aid to State/Regions Constitutional Development Fund": 3,
-"Aid to States/Region Government for their deficit": 4,
-"Aid/Loans to Bago Region Government": 5,
-"Aid/Loans to Chin State Government": 6,
-"Aid/Loans to Irrawaddy Region Government": 7,
-"Aid/Loans to Kachin State Government": 8,
-"Aid/Loans to Kayar State Government": 9,
-"Aid/Loans to Kayin State Government": 10,
-"Aid/Loans to Magwe Region Government": 11,
-"Aid/Loans to Mandalay Region Government": 12,
-"Aid/Loans to Mon State Government": 13,
-"Aid/Loans to Rakhine State Government": 14,
-"Aid/Loans to Sagaing Region Government": 15,
-"Aid/Loans to Shan State Government": 16,
-"Aid/Loans to Taninthari Region Government": 17,
-"Aid/Loans to Yangon State Government": 18,
-"Aids to state and regions": 19,
-"Border Affairs": 20,
-"Borrowing": 21,
-"Capital Expenditure": 22,
-"Capital Receipts": 23,
-"CDC": 24,
-"Central Bank": 25,
-"Central Bank of Myanmar": 26,
-"Co-operative": 27,
-"Commerce": 28,
-"Commerce ": 29,
-"Commerce and Trade": 30,
-"Communication and Information Technology": 31,
-"Communications, Posts And Telegraphs": 32,
-"Construction": 33,
-"Culture": 34,
-"Customs": 35,
-"Defence": 36,
-"Education": 37,
-"Electric Power": 38,
-"Electric Power No.(2)": 39,
-"Energy": 40,
-"Environmental Conservation and Forestry": 41,
-"Excise Tax": 42,
-"Expenditure for loans": 43,
-"expenditure with own budget": 44,
-"expenditure with own budget (tax on trade and income, investment)": 45,
-"fees from extracting electric power": 46,
-"fees from telephone operators": 47,
-"Finance and Revenue": 48,
-"Foreign Affairs": 49,
-"Foreign Aid": 50,
-"Garrison City": 51,
-"General Expenditure": 52,
-"General expenditure with own budget": 53,
-"Grants": 54,
-"Health": 55,
-"Home Affairs": 56,
-"Hotel and Tourism": 57,
-"Immigration and Populations": 58,
-"Income from Economic Enterprises outside union budget": 59,
-"Income from SEEs": 60,
-"Industry": 61,
-"Information": 62,
-"Interest payments": 63,
-"Interest receipts": 64,
-"Investment in Orgs": 65,
-"Labour, Employment and Social Security ": 66,
-"Licence fees on imports": 67,
-"Livestock and Fisheries": 68,
-"Loan drawdown": 69,
-"Loan recovery": 70,
-"Mandalay Electricity Distribution Cooperation Under Ministry of Electricity": 71,
-"Mines": 72,
-"Ministries and Departments": 73,
-"Ministries and Departments Out of Union Funds": 74,
-"Myanmar lottery": 75,
-"National Planning and Economic Development": 76,
-"NPT": 77,
-"NPT Council": 78,
-"Other General Revenues": 79,
-"Pension and Rewards": 80,
-"President": 81,
-"President Office": 82,
-"Pyithu Hluttaw": 83,
-"Rail Transportation": 84,
-"Receipts from SEEs": 85,
-"Religious Affairs": 86,
-"Revenue from Organizations' Investments": 87,
-"Revenue from Savings": 88,
-"Rewards and Lump Sum Pension": 89,
-"Sales on stamps": 90,
-"Savings": 91,
-"Science and Technology": 92,
-"SEEs": 93,
-"SEEs out of Union Funds": 94,
-"SEEs under the Ministry Communication and Information Technology": 95,
-"SEEs under the Ministry of Agriculture and Irrigation": 96,
-"SEEs under the Ministry of Co-operative": 97,
-"SEEs under the Ministry of Communications, Posts and Telegraphs": 98,
-"SEEs under the Ministry of Construction": 99,
-"SEEs under the Ministry of Economic and Trade": 100,
-"SEEs under the Ministry of Electric Power": 101,
-"SEEs under the Ministry of Electricity Power": 102,
-"SEEs under the Ministry of Energy": 103,
-"SEEs under the Ministry of Environmental Conservation and Forestry": 104,
-"SEEs under the Ministry of Finance and Revenue": 105,
-"SEEs under the Ministry of Hotels and Tourism": 106,
-"SEEs under the Ministry of Industry": 107,
-"SEEs under the Ministry of Industry No. (2)": 108,
-"SEEs under the Ministry of Information": 109,
-"SEEs under the Ministry of Labour": 110,
-"SEEs under the Ministry of Livestock and Fisheries": 111,
-"SEEs under the Ministry of Mines": 112,
-"SEEs under the Ministry of Rail Transportation": 113,
-"SEEs under the Ministry of Transportation": 114,
-"Social Security Board (MOL)": 115,
-"Social welfare under Ministry of Labour, employment and social welfare": 116,
-"Social Welfare Under Ministry of Labour, Employment and Social welfare ": 117,
-"Social Welfare, Relief and Resettlement": 118,
-"SOE under Ministry of Transport": 119,
-"Special Fund": 120,
-"Sports": 121,
-"Tax on cultured pearl and property": 122,
-"Tax on extracting from forest": 123,
-"Tax on extracting minerals": 124,
-"Tax on income and property": 125,
-"Tax on lakes": 126,
-"Tax on land": 127,
-"Tax on minerals and precious gems": 128,
-"Tax on oil and natural gas": 129,
-"Tax on rubber ": 130,
-"Tax on trade": 131,
-"Tax on water and irrigations": 132,
-"Taxes": 133,
-"Taxes on SEEs": 134,
-"Taxes on SEEs (2)": 135,
-"Transportation": 136,
-"Transportation tax": 137,
-"Union Attorney General": 138,
-"Union Auditor General": 139,
-"Union Civil Service Board": 140,
-"Union Constitutional Court": 141,
-"Union Election Commission": 142,
-"Union Government": 143,
-"Union Institutions": 144,
-"Union Parliament": 145,
-"Union Supreme Court": 146,
-"Union Transfers to States and Regions": 147,
-"Yangon Electricity Distribution Cooperation Under Ministry of Electricity": 148
-}
 
 
 // Dimensions of sunburst.
@@ -176,6 +25,8 @@ var colores_g =
 
 
 var colors_md = ['#edbd00','#367d85','#97ba4c','#f5662b','#3366cc','#329262']
+
+var negativeColor = "rgba(1,1,1,0.2)";
 
 // Total size of all segments; we set this later, after loading the data.
 var totalSize = 0; 
@@ -298,6 +149,7 @@ function createVisualization(json,viz) {
   // For efficiency, filter nodes to keep only those large enough to see.
   var nodes = partition.nodes(json)
       .filter(function(d) {
+//      console.log(d);
       return (d.dx > 0.005); // 0.005 radians = 0.29 degrees
       });
 
@@ -309,7 +161,11 @@ function createVisualization(json,viz) {
       .attr("fill-rule", "evenodd")
       .style("fill", function(d) { 
 //        return colores_g[categories[d.name] % (colores_g.length)];
-        return colores_g[d.name.charCodeAt(0) % (colores_g.length)];
+//        console.log(d);
+        if (d.positive || d.positive === null)
+          return colores_g[d.name.charCodeAt(0) % (colores_g.length)];
+        else 
+          return negativeColor;
       })
 //      .style("fill", function(d) { return colors[d.name]; })
       .style("opacity", 1)
@@ -361,8 +217,12 @@ function updateVisualization(json,viz) {
       .attr("d", arc)
       .attr("fill-rule", "evenodd")
       .style("fill", function(d) { 
-//        return colores_g[categories[d.name] % (colores_g.length)];        
+//        return colores_g[categories[d.name] % (colores_g.length)];   
+        console.log(d);
+        if (d.positive || d.positive === null)
           return colores_g[d.name.charCodeAt(0) % (colores_g.length)];
+        else 
+          return negativeColor;
 
       })
 //      .style("fill", function(d) { return colors[d.name]; })
@@ -416,7 +276,7 @@ function mouseover(d,container) {
       .style("visibility", "");
 
   var sequenceArray = getAncestors(d);
-  updateBreadcrumbs(sequenceArray, percentageString, d.value, trail);
+  updateBreadcrumbs(sequenceArray, percentageString, d.value, trail, d.positive);
 
   // Fade all the segments.
   d3.selectAll("path")
@@ -514,7 +374,7 @@ function breadcrumbPoints(d, i) {
 }
 
 // Update the breadcrumb trail to show the current sequence and percentage.
-function updateBreadcrumbs(nodeArray, percentageString, value, trail) {
+function updateBreadcrumbs(nodeArray, percentageString, value, trail, poz) {
   
   // Data join; key function combines name and depth (= position in sequence).
   var g = d3.selectAll(trail)
@@ -542,7 +402,9 @@ function updateBreadcrumbs(nodeArray, percentageString, value, trail) {
       .attr("y", b.h / 2)
       .attr("dy", "0.35em")
       .attr("text-anchor", "middle")
-      .text(function(d) { return d.name; });
+      .text(function(d) { 
+        return d.name; 
+      });
 
   // Set position for entering and updating nodes.
   g.attr("transform", function(d, i) {
@@ -561,7 +423,12 @@ function updateBreadcrumbs(nodeArray, percentageString, value, trail) {
 //      .attr("y", b.h / 2)
       .attr("dy", "0.35em")
       .attr("text-anchor", "middle")
-      .text("US$ " + numFormat(value) + " = " + percentageString);
+      .text(function (d) {
+        if (poz)
+          return "US$ " + numFormat(value) + " = " + percentageString;
+        else 
+          return "US$ -" + numFormat(value) + " = " + percentageString;
+      });
 
   // Make the breadcrumb trail visible, if it's hidden.
   d3.selectAll(trail)
@@ -604,13 +471,14 @@ function buildHierarchy(csv) {
  	}
   // If we don't already have a child node for this branch, create it.
  	if (!foundChild) {
- 	  childNode = {"name": nodeName, "children": []};
+ 	  childNode = {"name": nodeName, "children": [], "positive": true};
  	  children.push(childNode);
  	}
  	currentNode = childNode;
       } else {
  	// Reached the end of the sequence; create a leaf node.
- 	childNode = {"name": nodeName, "size": size};
+ 	childNode = {"name": nodeName, "size": Math.abs(size), "positive": size >= 0 ? true : false};
+//  console.log(childNode);
  	children.push(childNode);
       }
     }
